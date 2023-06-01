@@ -215,6 +215,10 @@ h3 {
     font-family: 'HankenGrotesk-700';
 }
 
+.light {
+    opacity: 50%;
+}
+
 .reaction-color-bg {
     background: var(--clr-reaction-bg);
 }
